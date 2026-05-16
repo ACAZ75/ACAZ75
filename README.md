@@ -15,4 +15,4 @@ SEO/GEO Consultant & Entrepreneur based in Paris.
 
 ## 📬 Contact
 
-[omnirk.com](https://omnirk.com) · [LinkedIn](https://linkedin.com/in/antoinecazals)
+[omnirk.com](https://omnirk.com) · [LinkedIn](https://linkedin.com/in/antoine-cazals)
