@@ -1,16 +1,18 @@
-## Hi there 👋
+# Antoine Cazals
 
-<!--
-**ACAZ75/ACAZ75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SEO/GEO Consultant & Entrepreneur based in Paris.
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[OMNIRK](https://omnirk.com)** — SEO/GEO agency with AI-first indexation stack
+- **[OrChair](https://orchair.com)** — Multilingual AI media outlet (34 categories, 12 languages)
+- **[BookAfterwork](https://bookafterwork.com)** — B2B marketplace for corporate events (1,700+ venues)
+- **[Areprendre](https://areprendre.com)** — Platform for acquiring companies in judicial liquidation
+
+## 🛠️ Stack & Expertise
+
+`SEO` `GEO` `SSR` `TanStack Start` `Next.js` `JSON-LD` `Schema.org` `llms.txt` `IndexNow` `AI Visibility`
+
+## 📬 Contact
+
+[omnirk.com](https://omnirk.com) · [LinkedIn](https://linkedin.com/in/antoinecazals)
